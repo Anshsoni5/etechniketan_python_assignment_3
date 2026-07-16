@@ -1,0 +1,63 @@
+ETECHNIKETAN PYTHON ASSIGNMENT 3
+MCQ QUESTIONS WITH ANSWERS
+
+1. Which keyword is used to define an anonymous function in Python?
+a. def
+b. func
+c. anonymous
+d. lambda
+Answer: d) lambda
+
+------------------------------------------------------------
+
+2. What does a module in Python represent?
+a. A function
+b. A directory of files
+c. A Python file with .py extension
+d. Combination of many Python files
+Answer: c) A Python file with .py extension
+
+------------------------------------------------------------
+
+3. Which keyword is used to use modules in Python?
+a. load
+b. include
+c. module
+d. import
+Answer: d) import
+
+------------------------------------------------------------
+
+4. Which syntax imports only the sqrt() function from math module?
+a. import sqrt from math
+b. import sqrt
+c. from sqrt import math
+d. from math import sqrt
+Answer: d) from math import sqrt
+
+------------------------------------------------------------
+
+5. What error occurs if blocks of code are not properly aligned in Python?
+a. IndentationError
+b. SyntaxError
+c. TypeError
+d. ValueError
+Answer: a) IndentationError
+
+------------------------------------------------------------
+
+6. What is the parent of all exceptions?
+a. AllError
+b. Error
+c. Exception
+d. ValueError
+Answer: c) Exception
+
+------------------------------------------------------------
+
+7. Which block is used to handle exceptions in Python?
+a. except
+b. catch
+c. try
+d. else
+Answer: c) try
